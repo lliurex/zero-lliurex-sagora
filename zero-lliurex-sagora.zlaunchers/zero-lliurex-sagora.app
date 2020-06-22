@@ -1,0 +1,13 @@
+Name=zero-lliurex-sagora
+Name[es]=Sagora server
+Name[ca_ES]=Sagora server
+Comment=Live music stram server
+Comment[es]=Servidor para emitir musica en directo
+Comment[ca_ES]=Servidor per a emetre musica en directe
+Icon=zero-lliurex-sagora
+Category=Software
+ScriptPath=zero-lliurex-sagora.zmd
+Groups=sudo;admin;admins;teachers
+Using=pkexec
+Service=True
+Modal=True
