@@ -1,0 +1,14 @@
+Source: zero-lliurex-sagora
+Section: admin
+Priority: optional
+Maintainer: Equipo LliureX <lliurex@gva.es>
+Uploaders: M.Angel Juan <m.angel.juan@gmail.com>, Raul Rodrigo Segura <lliurex_devel3@edu.gva.es>,  David Montalva Furio <montalva_dav@gva.es>, Hector Garcia Huerta <lliurex_devel1@edu.gva.es>, Daniel Duran Vecino <daduve@gmail.com>, Juanma Navarro <juanma1980@gmail.com>, Juan Ramon Pelegrina <juapesai@hotmail.com>,Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>
+Build-Depends: debhelper (>= 10), zero-dev, llxsrchelper,python3-poinstaller
+Standards-Version: 4.1.2
+
+Package: zero-lliurex-sagora
+Architecture: all
+Depends: ${misc:Depends}, epi-gtk, zero-center
+Description: sagora live music server
+ sagora streams live music over the net
+
