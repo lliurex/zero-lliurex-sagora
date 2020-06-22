@@ -1,9 +1,10 @@
-Name=zero-lliurex-sagora
-Name[es]=Sagora server
-Name[ca_ES]=Sagora server
-Comment=Live music stram server
-Comment[es]=Servidor para emitir musica en directo
-Comment[ca_ES]=Servidor per a emetre musica en directe
+Name=Sagora Stream Server
+Name[es]=Sagora Stream Server
+Name[ca_ES]=Sagora Stream Server
+Comment=It allows to connect multiple users in a virtual room and transmit audio in real time without canceling the signals, as usual in platforms commonly used for teleconferencing. This specific aspect makes it an extremely useful application for musical practice, in the cultural industry and education sectors, since it makes music rehearsals and/or concerts possible using the internet
+Comment[es]=Permite conectar múltiples usuarios en una sala virtual y transmitir audio en tiempo real sin que se cancelen las señales, como sucede en las plataformas de uso común para teleconferencia. Esta particularidad lo transforma en una aplicación sumamente útil para la práctica musical, tanto en el sector de industrias culturales como en el de educación, ya que permite realizar ensayos y/o conciertos utilizando internet
+Comment[ca_ES]=El Sagora permet conectar multiples usuaris a una sala virtual i emetre audio en temps reïal sense que es cancelen les senyals, com succedeix a les plataformes d'ús comú per a teleconferencia. Aquesta particularitat fan del Sagora una aplicació sumament útil per a la practica musical, tant al sector cultural com a la educació, ja que permet realitzar concerts o assaigos mitjançant internet
+Comment[qcv]=El Sagora permet conectar multiples usuaris a una sala virtual i emetre audio en temps reïal sense que es cancelen les senyals, com succedeix a les plataformes d'ús comú per a teleconferencia. Aquesta particularitat fan del Sagora una aplicació sumament útil per a la practica musical, tant al sector cultural com a la educació, ja que permet realitzar concerts o assaigos mitjançant internet
 Icon=zero-lliurex-sagora
 Category=Software
 ScriptPath=zero-lliurex-sagora.zmd
