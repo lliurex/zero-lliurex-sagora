@@ -6,17 +6,17 @@
 <name xml:lang="es">Instalador de sagora</name>
 <name xml:lang="ca_ES.UTF-8@valencia">Instal·la el Sagora</name>
 <name xml:lang="ca_ES">Sagora installer</name>
-<summary>Configures and installs Sagora, a live music stream server./summary>
+<summary>Configures and installs Sagora, a live music stream server.</summary>
 <summary xml:lang="es">Configura e instala Sagora, un servidor para retransmitir música en directo o unirse a otros músicos a través de la red</summary>
 <summary xml:lang="ca_ES.UTF-8@valencia">Configura i instal·la el Sagora, un servidor per a emetre música en directe o unirse a mes músics per la xarxa</summary>
 <summary xml:lang="ca_ES@valencia">Configura i instal·la el Sagora, un servidor per a emetre música en directe o unirse a mes músics per la xarxa</summary>
 <summary xml:lang="ca_ES">Configura i instal·la el Sagora, un servidor per a emetre música en directe o unirse a mes músics per la xarxa</summary>
 <description>
-<p>The Sagora software enables musicians to perform real-time jam sessions over the internet. There is one server running the Sagora server software which collects the audio data from each Sagora client, mixes the audio data and sends the mix back to each client.</p>
-<p xml:lang="es">Sagora permite organizar una jam session a través de internet. Para ello basta con crear una sala en un servidor Sagora que se encarga de sincronizar la musica entre todos los clientes conectados a la sala.</p>
-<p xml:lang="ca_ES.UTF-8@valencia">El Sagora permet organitzar una jam session mitjançant internet. Hi ha prou amb configurar una sala a un servidor Sagora que s'encarregarà de sincronitzar la mùsica entre els clients conectats.</p>
-<p xml:lang="ca_ES@valencia">El Sagora permet organitzar una jam session mitjançant internet. Hi ha prou amb configurar una sala a un servidor Sagora que s'encarregarà de sincronitzar la mùsica entre els clients conectats.</p>
-<p xml:lang="ca_ES">El Sagora permet organitzar una jam session mitjançant internet. Hi ha prou amb configurar una sala a un servidor Sagora que s'encarregarà de sincronitzar la mùsica entre els clients conectats.</p>
+<p>It allows to connect multiple users in a virtual room and transmit audio in real time without canceling the signals, as usual in platforms commonly used for teleconferencing. This specific aspect makes it an extremely useful application for musical practice, in the cultural industry and education sectors, since it makes music rehearsals and/or concerts possible using the internet</p>
+<p xml:lang="es">Permite conectar múltiples usuarios en una sala virtual y transmitir audio en tiempo real sin que se cancelen las señales, como sucede en las plataformas de uso común para teleconferencia. Esta particularidad lo transforma en una aplicación sumamente útil para la práctica musical, tanto en el sector de industrias culturales como en el de educación, ya que permite realizar ensayos y/o conciertos utilizando internet</p>
+<p xml:lang="ca_ES.UTF-8@valencia">El Sagora permet conectar multiples usuaris a una sala virtual i emetre audio en temps reïal sense que es cancelen les senyals, com succedeix a les plataformes d'ús comú per a teleconferencia. Aquesta particularitat fan del Sagora una aplicació sumament útil per a la practica musical, tant al sector cultural com a la educació, ja que permet realitzar concerts o assaigos mitjançant internet</p>
+<p xml:lang="ca_ES@valencia">El Sagora permet conectar multiples usuaris a una sala virtual i emetre audio en temps reïal sense que es cancelen les senyals, com succedeix a les plataformes d'ús comú per a teleconferencia. Aquesta particularitat fan del Sagora una aplicació sumament útil per a la practica musical, tant al sector cultural com a la educació, ja que permet realitzar concerts o assaigos mitjançant internet</p>
+<p xml:lang="ca_ES">El Sagora permet conectar multiples usuaris a una sala virtual i emetre audio en temps reïal sense que es cancelen les senyals, com succedeix a les plataformes d'ús comú per a teleconferencia. Aquesta particularitat fan del Sagora una aplicació sumament útil per a la practica musical, tant al sector cultural com a la educació, ja que permet realitzar concerts o assaigos mitjançant internet</p>
 </description>
 <categories>
 <category>Lliurex</category>
