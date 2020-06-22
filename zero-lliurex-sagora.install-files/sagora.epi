@@ -1,6 +1,6 @@
 {
 	"type":"apt",
 	"pkg_list": [{"name":"sagora","key_store":"zero-lliurex-sagora"}],
-	"script":{"name":"/usr/share/zero-lliurex-jamulus/sagora_script","remove":true},
+	"script":{"name":"/usr/share/zero-lliurex-sagora/sagora_script","remove":true},
 	"zomando": "zero-lliurex-sagora"
 }
